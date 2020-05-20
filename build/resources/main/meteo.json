@@ -1,0 +1,20 @@
+{
+  "name": "meteo",
+  "description": "Donne la météo pour un lieu",
+  "input": [
+    "quel temps fait il",
+    "quelle temps fait il",
+    "il fait quel temps",
+    "il fait quelle temps",
+    "donne moi la météo",
+    "donne moi le temps"
+  ],
+  "output": [
+    ""
+  ],
+  "action": {
+    "cmd": "",
+    "script": "",
+    "void": "meteo"
+  }
+}

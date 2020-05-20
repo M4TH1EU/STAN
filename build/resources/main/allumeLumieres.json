@@ -1,0 +1,26 @@
+{
+  "name": "allumeLumieres",
+  "description": "allume les lumières",
+  "input": [
+    "allume les lumières",
+    "allume les lumieres",
+    "allume tout",
+    "allume tout",
+    "allume la lumière",
+    "allume la lumiere",
+    "allume les lumières",
+    "allume la lumière",
+    "allume les lumieres",
+    "allume les lumieres",
+    "allume tout",
+    "allume tout"
+  ],
+  "output": [
+    ""
+  ],
+  "action": {
+    "cmd": "python -m flux_led -sS --on",
+    "script": "",
+    "void": ""
+  }
+}

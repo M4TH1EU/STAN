@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "description": "",
+  "input": [
+  ],
+  "output": [
+  ],
+  "action": {
+      "cmd": "echo 'message'",
+      "script": "C:\\Scripts\\script.bat",
+      "void": "voidName()"
+   }
+}

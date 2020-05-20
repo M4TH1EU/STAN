@@ -1,0 +1,24 @@
+{
+  "name": "heures",
+  "description": "Réponds a différentes questions relatives aux heures",
+  "input": [
+    "il est quelle heure",
+    "il est quel heure",
+    "c'est quel heure",
+    "c'est quelle heure",
+    "quel heure est il",
+    "quelle heure est il",
+    "peux tu me donner l'heure",
+    "tu peux me donner l'heure",
+    "pourrais tu me donner l'heure",
+    "pourrais tu me dire l'heure"
+  ],
+  "output": [
+    ""
+  ],
+  "action": {
+    "cmd": "",
+    "script": "",
+    "void": "time"
+  }
+}

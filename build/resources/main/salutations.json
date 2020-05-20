@@ -1,0 +1,34 @@
+{
+  "name": "salutations",
+  "description": "Salue la personne",
+  "input": [
+    "Salut",
+    "Salut salut",
+    "Bonjour",
+    "Bonsoir",
+    "Bien le bonjour",
+    "Wesh",
+    "Hello",
+    "Coucou",
+    "Hey",
+    "Hey salut",
+    "Hey bonjour",
+    "Hey bonsoir",
+    "Hey coucou",
+    "Bien le bonsoir"
+  ],
+  "output": [
+    "Bonjour",
+    "Bonsoir",
+    "Salutations",
+    "Salutations l'ami",
+    "Wesh",
+    "Coucou",
+    "Hey"
+  ],
+  "action": {
+    "cmd": "",
+    "script": "",
+    "void": ""
+  }
+}

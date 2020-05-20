@@ -1,0 +1,30 @@
+{
+  "name": "eteintLumieres",
+  "description": "Éteint les lumières",
+  "input": [
+    "éteint les lumières",
+    "éteins les lumières",
+    "éteint tout",
+    "éteins tout",
+    "éteint la lumière",
+    "éteins la lumière",
+    "arrête les lumières",
+    "arrête la lumière",
+    "eteint les lumieres",
+    "eteins les lumieres",
+    "eteint tout",
+    "eteins tout",
+    "eteint la lumiere",
+    "eteins la lumiere",
+    "arrete les lumieres",
+    "arrete la lumiere"
+  ],
+  "output": [
+    ""
+  ],
+  "action": {
+    "cmd": "python -m flux_led -sS --off",
+    "script": "",
+    "void": ""
+  }
+}
